@@ -1,0 +1,64 @@
+{
+	"maps": [
+		{
+			"name": "Lobby",
+			"file": "lobby.nbt",
+			"author": "hexadezimal6e_3b"
+		},
+		{
+			"name": "Villa",
+			"file": "villa.nbt",
+			"author": "hexadezimal6e_3b"
+		},
+		{
+			"name": "The Nether",
+			"file": "nether.nbt",
+			"author": "Thanatos20"
+		},
+		{
+			"name": "Wood Jump",
+			"file": "woodjump.nbt",
+			"author": "Ikree"
+		},
+		{
+			"name": "The Tower",
+			"file": "tower.nbt",
+			"author": "hexadezimal6e_3b"
+		},
+		{
+			"name": "Pirates",
+			"file": "pirates.nbt",
+			"author": "Thanatos20"
+		},
+		{
+			"name": "Woolland",
+			"file": "woolland.nbt",
+			"author": "hexadezimal6e_3b"
+		},
+		{
+			"name": "The Cube",
+			"file": "cube.nbt",
+			"author": "Sishidayako, hexadezimal6e_3b"
+		},
+		{
+			"name": "The Pain",
+			"file": "pain.nbt",
+			"author": "L3ifCraft"
+		},
+		{
+			"name": "Asia",
+			"file": "asia.nbt",
+			"author": "Thanatos20"
+		},
+		{
+			"name": "Yoshichis Base",
+			"file": "ybase.nbt",
+			"author": "Yoshichi"
+		},
+		{
+			"name": "Wald der Entspannung",
+			"file": "entspannung.nbt",
+			"author": "Tristan_TN"
+		}
+	]
+}
