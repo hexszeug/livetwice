@@ -1,0 +1,24 @@
+name: LiveTwice_Plugin
+main: LiveTwicePlugin
+version: 0.4 (rc v1)
+description: A PvP Minigame where you are two people and switch between them
+api-version: 1.16
+author: hexadezimal6E_3B
+website: www.hexsz.eu
+commands:
+  livetwice-info:
+    description: Shows a short info page
+    usage: /livetwice-info
+    aliases: lt-info
+  s:
+    description: If moderated-mode is enabled, starts the game with everyone in the queue.
+    usage: /s <show/hide/reset>
+    aliases: [start, stats]
+  queue:
+    description: Returns everyones names in the queue.
+    usage: /queue
+    aliases: q
+  map:
+    description: Loads the map with the given name
+    usage: /map <name>
+    aliases: m
