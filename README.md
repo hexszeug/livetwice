@@ -1,4 +1,7 @@
 # livetwice
+## This is a bukkit plugin
+See its page on dev.bukkit.org/projects/livetwice
+
 ## LiveTwice is a Minigame
 If the plugin is enabled, you cannot do anything else than playing it.
 
